@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 08 Jun 2024 12:00:54 GMT
+// Generated on Sat, 08 Jun 2024 14:27:01 GMT
 
 
 import UIKit
@@ -18,18 +18,18 @@ public enum StyleDictionaryEnum {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let globalBrLg = 200
-    public static let globalBrMd = 100
-    public static let globalBrSm = 25
-    public static let globalPrimary100 = #ADD8E6
-    public static let globalPrimary200 = #0000FF
-    public static let globalPrimary300 = #00008B
-    public static let globalSecondary100 = #FFCCCC
-    public static let globalSecondary200 = #FF0000
-    public static let globalSecondary300 = #8B0000
-    public static let globalSizeLg = 300
-    public static let globalSizeMd = 200
-    public static let globalSizeSm = 100
+    public static let globalBrMd = 30
+    public static let globalBrNone = 0
+    public static let globalBrSm = 10
+    public static let globalCard100 = #292929
+    public static let globalCard200 = #EE0000
+    public static let globalText100 = #FFF
+    public static let globalText200 = #ADD8E6
+    public static let globalText300 = #0000FF
+    public static let globalText400 = #00008B
+    public static let globalText500 = #FFCCCC
+    public static let globalText600 = #FF0000
+    public static let globalText700 = #8B0000
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
