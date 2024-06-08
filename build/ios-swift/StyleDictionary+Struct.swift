@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 08 Jun 2024 10:26:29 GMT
+// Generated on Sat, 08 Jun 2024 11:04:41 GMT
 
 
 import UIKit
@@ -18,15 +18,15 @@ internal struct StyleDictionaryStruct {
     internal static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    internal static let globalBlau100 = #ADD8E6
-    internal static let globalBlau200 = #00FF00
-    internal static let globalBlau300 = #00008B
     internal static let globalBrLg = 200
     internal static let globalBrMd = 100
     internal static let globalBrSm = 25
-    internal static let globalRot100 = #FFCCCC
-    internal static let globalRot200 = #FF0000
-    internal static let globalRot300 = #8B0000
+    internal static let globalPrimary100 = #ADD8E6
+    internal static let globalPrimary200 = #0000FF
+    internal static let globalPrimary300 = #00008B
+    internal static let globalSecondary100 = #FFCCCC
+    internal static let globalSecondary200 = #FF0000
+    internal static let globalSecondary300 = #8B0000
     internal static let globalSizeLg = 300
     internal static let globalSizeMd = 200
     internal static let globalSizeSm = 100

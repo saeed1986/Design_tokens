@@ -1,0 +1,11 @@
+button {
+  background-color: #0000ff;
+  color: black; /* Set text color to ensure visibility */
+  padding: 10px 20px; /* Example padding */
+  border: none; /* Remove default button border */
+  border-radius: 100px; /* Use the medium border radius */
+  cursor: pointer; /* Add cursor style for better UX */
+  font-size: 1rem; /* Use the medium font size */
+}
+
+/*# sourceMappingURL=main.css.map */
