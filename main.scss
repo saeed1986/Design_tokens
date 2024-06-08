@@ -2,10 +2,8 @@
 
 button {
   background-color: $global-primary-200;
-  color: black; /* Set text color to ensure visibility */
-  padding: 10px 20px; /* Example padding */
-  border: none; /* Remove default button border */
-  border-radius: $global-br-md + px; /* Use the medium border radius */
-  cursor: pointer; /* Add cursor style for better UX */
-  font-size: $size-font-medium; /* Use the medium font size */
+  border-radius: $global-br-md + px;
+  width: $global-size-lg;
+  height: $global-size-lg;
+  border: none;
 }
