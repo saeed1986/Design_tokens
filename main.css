@@ -1,36 +1,36 @@
 .card {
   background-color: #292929;
-  color: #fff;
-  width: 360px; /* Set width to 400 */
-  height: 235px;
+  color: #FFF;
+  border-radius: 30px;
+  width: 382px; /* Set width to 400 */
+  height: 208px;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Center vertically */
   font-family: "Zen Kaku Gothic New", sans-serif;
   padding-left: 15px;
+  padding-top: 20px;
   margin: 0 auto;
 }
 
 h2 {
   font-size: 18px;
-  margin-bottom: 10px;
+  padding-left: 10px;
 }
 
 p {
   font-size: 12px;
-  margin-bottom: 20px;
-  padding-right: 20px;
   line-height: 1.5;
+  padding: 0px 15px 30px 10px;
 }
 
 button {
-  background-color: #ee0000;
-  border-radius: 0; /* Remove border radius */
-  color: #fff;
-  padding: 10px 20px;
-  width: 346px; /* Set width to 374 */
-  height: 59px; /* Set height to 59 */
+  background-color: #EE0000;
+  color: #FFF;
+  border-radius: 30px;
   border: none;
+  padding: 10px 20px;
+  width: 367px; /* Set width to 374 */
+  height: 50px; /* Set height to 59 */
 }
 
 
