@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Sat, 08 Jun 2024 15:14:25 GMT
+// Generated on Mon, 10 Jun 2024 13:21:05 GMT
 
 $color-base-gray-light: #cccccc;
 $color-base-gray-medium: #999999;
@@ -14,15 +14,15 @@ $size-font-small: 0.75rem; // the small size of the font
 $size-font-medium: 1rem; // the medium size of the font
 $size-font-large: 2rem; // the large size of the font
 $size-font-base: 1rem; // the base size of the font
-$global-text-100: #FFF;
-$global-text-200: #ADD8E6;
-$global-text-300: #0000FF;
-$global-text-400: #00008B;
-$global-text-500: #FFCCCC;
-$global-text-600: #FF0000;
-$global-text-700: #8B0000;
+$global-text-primary: #FFF;
+$global-text-secondary: #000;
+$global-button-secondary: #0000EE;
 $global-br-none: 0;
 $global-br-sm: 10;
-$global-card-100: #292929;
-$global-card-200: #EE0000;
-$global-br-md: 30;
+$global-card-primary: #292929;
+$global-button-primary: #EE0000;
+$global-br-md: 25;
+$global-default: 13;
+$global-lg: 16;
+$global-xl: 19;
+$global-card-secondary: #929292;

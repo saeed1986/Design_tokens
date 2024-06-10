@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 08 Jun 2024 15:14:25 GMT
+// Generated on Mon, 10 Jun 2024 13:21:06 GMT
 
 
 import UIKit
@@ -18,18 +18,18 @@ public class StyleDictionaryClass {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let globalBrMd = 30
+    public static let globalBrMd = 25
     public static let globalBrNone = 0
     public static let globalBrSm = 10
-    public static let globalCard100 = #292929
-    public static let globalCard200 = #EE0000
-    public static let globalText100 = #FFF
-    public static let globalText200 = #ADD8E6
-    public static let globalText300 = #0000FF
-    public static let globalText400 = #00008B
-    public static let globalText500 = #FFCCCC
-    public static let globalText600 = #FF0000
-    public static let globalText700 = #8B0000
+    public static let globalButtonPrimary = #EE0000
+    public static let globalButtonSecondary = #0000EE
+    public static let globalCardPrimary = #292929
+    public static let globalCardSecondary = #929292
+    public static let globalDefault = 13
+    public static let globalLg = 16
+    public static let globalTextPrimary = #FFF
+    public static let globalTextSecondary = #000
+    public static let globalXl = 19
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */

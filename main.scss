@@ -1,38 +1,37 @@
 @import "./build/scss/_variables";
 
 .card {
-  background-color: $global-card-100;
-  color: $global-text-100;
+  background-color: $global-card-primary;
+  color: $global-text-primary;
   border-radius: $global-br-md + px;
-  width: 382px; /* Set width to 400 */
-  height: 208px;
-  display: flex;
-  flex-direction: column;
+  width: 350px; /* Set width to 400 */
+  height: 250px;
   font-family: "Zen Kaku Gothic New", sans-serif;
-  padding-left: 15px;
-  padding-top: 20px;
   margin: 0 auto;
+  display: flex; /* Add flex display */
+  flex-direction: column; /* Arrange items vertically */
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
 }
 
 h2 {
   font-size: 18px;
-  padding-left: 10px;
+  padding: 20px 15px 0px 5px;
 }
 
 p {
-  font-size: 12px;
-  line-height: 1.5;
-  padding: 0px 15px 30px 10px;
+  font-size: 13px;
+  line-height: 1.7;
+  padding: 0px 10px 10px 20px;
+  width: 300px;
 }
 
 button {
-  background-color: $global-card-200;
-  color: $global-text-100;
+  background-color: $global-button-primary;
+  color: $global-text-primary;
   border-radius: $global-br-md + px;
   border: none;
-  padding: 10px 20px;
-  width: 367px; /* Set width to 374 */
+  width: 300px; /* Set width to 374 */
   height: 50px; /* Set height to 59 */
+  margin-bottom: 10px;
 }
-
-/*# sourceMappingURL=main.css.map */
