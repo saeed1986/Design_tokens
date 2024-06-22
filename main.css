@@ -1,7 +1,7 @@
 .card {
-  background-color: #292929;
+  background-color: #540a0a;
   color: #FFF;
-  border-radius: 25px;
+  border-radius: 10 pxpx;
   width: 350px; /* Set width to 400 */
   height: 250px;
   font-family: "Zen Kaku Gothic New", sans-serif;
@@ -25,11 +25,13 @@ p {
 }
 
 button {
-  background-color: #EE0000;
+  background-color: #0000EE;
   color: #FFF;
-  border-radius: 25px;
+  border-radius: 10 pxpx;
   border: none;
   width: 300px; /* Set width to 374 */
   height: 50px; /* Set height to 59 */
   margin-bottom: 10px;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
