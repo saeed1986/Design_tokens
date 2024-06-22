@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 22 Jun 2024 21:29:02 GMT
+// Generated on Sat, 22 Jun 2024 21:36:11 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ internal struct StyleDictionaryStruct {
     internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
     internal static let globalBrDefault = 25 px
-    internal static let globalButtonPrimary = #0000EE
+    internal static let globalButtonPrimary = #EE0000
     internal static let globalCardPrimary = #540a0a
     internal static let globalFsDefault = 13
     internal static let globalTextPrimary = #FFF
