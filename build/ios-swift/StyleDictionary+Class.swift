@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 22 Jun 2024 21:36:11 GMT
+// Generated on Tue, 06 Aug 2024 15:29:18 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ public class StyleDictionaryClass {
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
     public static let globalBrDefault = 25 px
-    public static let globalButtonPrimary = #EE0000
+    public static let globalButtonPrimary = #0000FF
     public static let globalCardPrimary = #540a0a
     public static let globalFsDefault = 13
     public static let globalTextPrimary = #FFF
